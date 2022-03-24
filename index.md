@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to shuyue's blog
 
 You can use the [editor on GitHub](https://github.com/wulishuyue/wulishuyue.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
